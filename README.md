@@ -6,6 +6,9 @@
 </head>
 <body>
     <h1>Welcome to Cweetron.com!</h1>
-    <img src="gooncord50.gif" alt="Your GIF">
+	<p>fast</p>
+    <img src="gooncord50.gif" alt="gooncord50">
+	<p>slower</p>
+	<img src="gooncord.gif" alt="gooncord">
 </body>
 </html>
