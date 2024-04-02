@@ -12,5 +12,7 @@
     	<img src="gooncordfast.gif" alt="gooncordmed">
 	<p>slower</p>
 	<img src="gooncord.gif" alt="gooncord">
+	<p>dm icon</p>
+	<img src="goonicon.gif" alt="goonicon">
 </body>
 </html>
